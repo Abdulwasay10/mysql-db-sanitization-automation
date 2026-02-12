@@ -67,7 +67,7 @@ Note: It is just an example DB, this script is effective on any size of database
 
 5. Information Schema queries
 
-# Use Case
+## Use Case
 
 This script is useful when:
 
@@ -103,7 +103,7 @@ This script is useful when:
 
 6. Clean up credentials
 
-## Disclaimer
+# Disclaimer
 
 This is a demonstration script.
 Do not use directly in production without review and testing.
